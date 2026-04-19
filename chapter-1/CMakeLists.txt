@@ -3,3 +3,4 @@ project(chapter1)
 
 add_subdirectory(1.5-solution)
 add_subdirectory(1.11-solution)
+add_subdirectory(1.x-solution)
